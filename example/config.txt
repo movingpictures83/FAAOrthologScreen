@@ -1,0 +1,2 @@
+Prefix plugins/FAAOrthologScreen/example
+Plugin FAAOrthologScreen inputfile parameters.txt outputfile orthologs

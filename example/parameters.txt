@@ -1,0 +1,3 @@
+faa1	PA1.faa
+faa2	PA14.faa
+ortholog	rbb_out
